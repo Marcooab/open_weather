@@ -1,5 +1,14 @@
-Projeto que informa o clima e outras informacoes da cidade desejada por meio de API,s. 
+# Wearther Info Project
 
-Tecnologias: HTML, CSS, JavaScript, Postman, Weather API
+A project that informs the weather and plus information about a desired city. 
+Consuming Weather API. 
 
-![weather_print](https://user-images.githubusercontent.com/102860659/190390219-cf647f3f-640d-4953-ab33-373f806be873.png)
+Techs: 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,postman)](https://skillicons.dev)
+
+HTML5
+CSS3 pure
+JS Vanilla
+API connection - Postman
+
+
